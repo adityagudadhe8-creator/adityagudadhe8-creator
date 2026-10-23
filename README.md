@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Aditya Gudadhe 👋
 
-<!--
-**adityagudadhe8-creator/adityagudadhe8-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI Developer | Python | Generative AI | LLMs
 
-Here are some ideas to get you started:
+I'm an AI developer focused on building practical AI applications using Python and Large Language Models (LLMs). My goal is to develop useful, reliable solutions that solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- 💻 Freelance AI development experience
+- 🤖 Interested in Generative AI, LLMs, and AI agents
+- 🐍 Working with Python
+- 🐳 Exploring containerized application development with Docker
+- 🔧 Using Git and GitHub for version control and project development
+- 📚 Continuously learning and improving my AI engineering skills
+
+## Featured Project
+
+### AI-Powered Investor Intelligence Platform
+
+An AI application focused on investor intelligence.
+
+**Explore the project:**  
+https://github.com/adityagudadhe8-creator/AI-Powered-Investor-Intelligence-Platform-main
+
+## Technical Skills
+
+- **Programming:** Python
+- **AI:** Large Language Models (LLMs), Generative AI
+- **Development Tools:** Git, GitHub, Docker
+- **Interests:** AI applications, AI agents, software engineering
+
+## Connect With Me
+
+- **LinkedIn:** https://linkedin.com/in/adityagudadhe93
+- **GitHub:** https://github.com/adityagudadhe8-creator
+
+I'm always interested in learning, building useful projects, and connecting with people working on AI and software development.
