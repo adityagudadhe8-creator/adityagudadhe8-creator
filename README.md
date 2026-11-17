@@ -1,37 +1,38 @@
 # Hi, I'm Aditya Gudadhe 👋
 
-### AI Developer | Python | Generative AI | LLMs
+### AI Engineer | Python | Generative AI | LLMs
 
-I'm an AI developer focused on building practical AI applications using Python and Large Language Models (LLMs). My goal is to develop useful, reliable solutions that solve real-world problems.
+I'm an **AI Engineer at Nexxoft Infotel with 2 years of professional experience** building practical AI-powered applications. I enjoy working with Python, Generative AI, and Large Language Models (LLMs), and turning ideas into useful software solutions.
 
-## About Me
+## 👨‍💻 About Me
 
-- 💻 Freelance AI development experience
-- 🤖 Interested in Generative AI, LLMs, and AI agents
-- 🐍 Working with Python
-- 🐳 Exploring containerized application development with Docker
-- 🔧 Using Git and GitHub for version control and project development
-- 📚 Continuously learning and improving my AI engineering skills
+- 💼 **Current Organization:** Nexxoft Infotel
+- 🚀 **Professional Experience:** 2 years as an AI Engineer
+- 🐍 **Programming:** Python
+- 🤖 **AI Focus:** Generative AI, Large Language Models (LLMs), and AI-powered applications
+- 🧰 **Tools:** Git, GitHub, and Docker
+- 📚 Always learning, experimenting, and improving my engineering skills
 
-## Featured Project
+## 🛠️ Technical Skills
+
+| Area | Skills |
+|---|---|
+| Programming | Python |
+| Artificial Intelligence | Generative AI, Large Language Models (LLMs) |
+| Development Tools | Git, GitHub, Docker |
+| Areas of Interest | AI applications, AI agents, software engineering |
+
+## 🚀 Featured Project
 
 ### AI-Powered Investor Intelligence Platform
 
-An AI application focused on investor intelligence.
+An AI-focused project designed to support investor intelligence.
 
-**Explore the project:**  
-https://github.com/adityagudadhe8-creator/AI-Powered-Investor-Intelligence-Platform-main
+🔗 **[Explore the project](https://github.com/adityagudadhe8-creator/AI-Powered-Investor-Intelligence-Platform-main)**
 
-## Technical Skills
+## 🤝 Connect With Me
 
-- **Programming:** Python
-- **AI:** Large Language Models (LLMs), Generative AI
-- **Development Tools:** Git, GitHub, Docker
-- **Interests:** AI applications, AI agents, software engineering
+- **LinkedIn:** [adityagudadhe93](https://linkedin.com/in/adityagudadhe93)
+- **GitHub:** [adityagudadhe8-creator](https://github.com/adityagudadhe8-creator)
 
-## Connect With Me
-
-- **LinkedIn:** https://linkedin.com/in/adityagudadhe93
-- **GitHub:** https://github.com/adityagudadhe8-creator
-
-I'm always interested in learning, building useful projects, and connecting with people working on AI and software development.
+I'm interested in building meaningful AI solutions, collaborating with developers, and exploring new ideas in AI and software engineering.
